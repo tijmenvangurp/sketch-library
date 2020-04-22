@@ -18,7 +18,7 @@
             <title>Hello world</title>
             <pubDate>Sun, 25 Nov 2019 15:26:19 GMT</pubDate>
             <link>https://github.com/tijmenvangurp/sketch-library</link>
-            <enclosure url="https://github.com/tijmenvangurp/sketch-library/raw/master/hello-world.sketch" type="application/octet-stream" sparkle:version="1.4.0" />
+            <enclosure url="https://github.com/tijmenvangurp/sketch-library/raw/master/hello-world.sketch" type="application/octet-stream" sparkle:version="1.5.0" />
         </item>
     </channel>
 </rss>
