@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Hello World</title>
+        <description>Testing library hosting on github</description>
+        <link>https://github.com/tijmenvangurp/sketch-library</link>
+        <image>
+            <title>Hello World</title>
+        </image>
+        <generator>Sketch</generator>
+        <item>
+            <title>Hello world</title>
+            <pubDate>Sun, 24 Nov 2019 15:26:19 GMT</pubDate>
+            <link>https://github.com/tijmenvangurp/sketch-library</link>
+            <enclosure url="https://github.com/tijmenvangurp/sketch-library/raw/master/hello-world.sketch" type="application/octet-stream" sparkle:version="1.4.0" />
+        </item>
+    </channel>
+</rss>
